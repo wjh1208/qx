@@ -125,6 +125,13 @@
       "type": "boolean",
       "desc": "兑换优惠券，默认为false,开启兑换，如需开启兑换，请设置为true"
     }, {
+      "id": "elmdhzh",
+      "name": "饿了吗兑换账号",
+      "val": "",
+      "type": "text",
+      "placeholder": "(点击以展开说明)",
+      "desc": "饿了么兑换账号，多账号@分割"
+    }, {
       "id": "elmck",
       "name": "饿了吗cookie",
       "val": "",
@@ -139,9 +146,9 @@
       "placeholder": "",
       "desc": "默认为60，当为60时，9点59分运行脚本，10点准时开枪，如果网络慢可以设置为59，则9点59分59秒开抢"
     }],
-    "script": "https://gitee.com/xiecoll/radish-script/raw/master/ELM/lb_elm.js",
+    "script": "https://raw.githubusercontent.com/wjh1208/qx/mini2/elmlb.js",
     "author": "@cjf0423",
-    "repo": "https://gitee.com/xiecoll/radish-script/raw/master/ELM/lb_elm.js",
+    "repo": "https://raw.githubusercontent.com/wjh1208/qx/mini2/elmlb.js",
     "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/elem.png"]
   },
