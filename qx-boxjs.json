@@ -114,7 +114,7 @@
   {
     "id": "elm",
     "name": "饿了么吃货豆",
-    "keys": ["elmck", "elmck2", "elmck3", "elmck4", "elmck5", "elmck6", "elmdh", "elmdhzh", "SM_STARTTIME"],
+    "keys": ["elmck", "elmck", "elmck", "elmck", "elmck", "elmck", "elmdh", "elmdhzh", "SM_STARTTIME"],
     "descs_html": [
       "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://gitee.com/xiecoll/radish-script/raw/master/ELM/lb_elm.js\">脚本注释</a></h4>"
     ],
@@ -136,13 +136,6 @@
       "name": "饿了吗cookie",
       "val": "",
       "type": "text",
-      "placeholder": "(点击以展开说明)",
-      "desc": "饿了么ck"
-    }, {
-      "id": "elmstatus",
-      "name": "饿了吗cookie账号个数",
-      "val": "1",
-      "type": "number",
       "placeholder": "(点击以展开说明)",
       "desc": "饿了么ck"
     }, {
