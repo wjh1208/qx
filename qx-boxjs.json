@@ -114,7 +114,7 @@
   {
     "id": "Elm",
     "name": "饿了么吃货豆",
-    "keys": ["elmck", "elmdh", "elmdhzh", "SM_STARTTIME"],
+    "keys": ["elmck", "elmck", "elmck", "elmck", "elmck", "elmck","elmdh", "elmdhzh", "SM_STARTTIME"],
     "descs_html": [
       "<h4 align=\"center\">获取Cookie以及脚本配置请查看<a href=\"https://gitee.com/xiecoll/radish-script/raw/master/ELM/lb_elm.js\">脚本注释</a></h4>"
     ],
